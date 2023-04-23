@@ -14,6 +14,9 @@ class MyApp extends StatelessWidget {
   }
 }
 
+class Teste {}
+// teste de CI
+
 class TodoList extends StatefulWidget {
   final http.Client _client;
 
