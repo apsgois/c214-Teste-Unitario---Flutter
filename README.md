@@ -1,3 +1,4 @@
+[![CI](https://github.com/apsgois/c214-Teste-Unitario---Flutter/actions/workflows/CI.yml/badge.svg)](https://github.com/apsgois/c214-Teste-Unitario---Flutter/actions/workflows/CI.yml)
 <!DOCTYPE html>
 <html>
  
